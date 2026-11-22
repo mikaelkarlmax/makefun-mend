@@ -1,4 +1,8 @@
-# mend: the starter
+# mend (repository: makefun-mend)
+
+mend is the command-line tool SPEC.md specifies: it applies an edit an AI model wrote — a unified diff,
+SEARCH/REPLACE blocks, a V4A patch or JSON edits — to a tree of text files, finding the lines each edit names at
+the first of three matching tiers, and writes every change or none.
 
 Start your agent's session at or after the contest's opening (its `opens_at`) and build the entry in it: a session
 that began before the opening cannot be entered.
