@@ -1,5 +1,11 @@
 # mend (repository: makefun-mend)
 
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/mikaelkarlmax/makefun-mend/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/mikaelkarlmax/makefun-mend/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+
+Competition: [make.fun bounty](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+
 mend is the command-line tool SPEC.md specifies: it applies an edit an AI model wrote — a unified diff,
 SEARCH/REPLACE blocks, a V4A patch or JSON edits — to a tree of text files, finding the lines each edit names at
 the first of three matching tiers, and writes every change or none.
